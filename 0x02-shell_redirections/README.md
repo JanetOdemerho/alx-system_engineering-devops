@@ -1,0 +1,1 @@
+In 0x02 Shell Input/Output redirections and filters project, 26 executable scripts were programmed to redirect standard output to a file, get standard input from a file instead of the keyboard, send the output from one program to the input of another program, and to combine commands and filters with redirections
